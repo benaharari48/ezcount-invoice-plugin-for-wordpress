@@ -2,7 +2,7 @@
 /*
 Plugin Name: EZCount Invoicing
 Description: תוסף ליצירת חשבוניות באמצעות ממשק EZCount עבור הזמנות WooCommerce. פותח על ידי Dooble.
-Version: 1.1
+Version: 1.2
 Author: Dooble
 Author URI: https://www.dooble.co.il/
 Requires at least: 5.0
