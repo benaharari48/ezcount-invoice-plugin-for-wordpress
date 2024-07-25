@@ -1,2 +1,1 @@
-"# ezcount-invoice-plugin" 
-"# ezcount-invoice-plugin" 
+"# ezcount-invoice-plugin-for-wordpress" 
